@@ -72,6 +72,8 @@ POST /movimentacoes
     "id": 1
   }
 }
+
+
 🧠 Aprendizados
 Esse projeto me ajudou a reforçar conceitos fundamentais de construção de APIs REST com Spring Boot, organização em camadas, e a prática de testes com o Postman. Também explorei o uso de exceções personalizadas para melhorar a clareza dos retornos de erro.
 
