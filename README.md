@@ -19,7 +19,7 @@ Spring Boot
 
 Spring Data JPA
 
-H2 Database (ou PostgreSQL)
+PostgreSQL
 
 Postman
 
